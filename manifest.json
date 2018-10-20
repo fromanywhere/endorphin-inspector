@@ -1,0 +1,11 @@
+{
+    "name": "Endorphin inspector",
+    "version": "0.1",
+    "description": "Simple properties panel",
+    "devtools_page": "endorphin-inspector.html",
+    "permissions": [
+        "http://*/*",
+        "https://*/*"
+    ],
+    "manifest_version": 2
+}
